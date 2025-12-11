@@ -17,6 +17,9 @@ permalink: /projects/
 </div>
 </div>
 
-<object data="{{ '/assets/FPW.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px">
-    <p>Unable to display PDF file. <a href="{{ '/assets/FPW.pdf' | relative_url }}">Download</a> instead.</p>
-</object>
+<div style="text-align: center; margin-top: 40px;">
+    <h3>MAE 3270 Final HW</h3>
+    <a href="{{ '/assets/FPW.pdf' | relative_url }}" target="_blank" style="font-size: 1.2em; font-weight: bold;">
+        Download FPW (PDF)
+    </a>
+</div>
