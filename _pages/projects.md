@@ -22,4 +22,10 @@ permalink: /projects/
     <a href="{{ '/assets/SystemsGroupProject.pdf' | relative_url }}" target="_blank">
         View Systems Group Project (PDF)
     </a>
+
+    <embed src="assets/FPW.pdf" type="application/pdf" width="100%" height="800px" />
+
+<p>
+<a href="assets/FPW.pdf" target="_blank">Click here to download it.</a>
+</p>
 </div>
