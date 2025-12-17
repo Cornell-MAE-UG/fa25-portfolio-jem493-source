@@ -1,9 +1,7 @@
 ---
-layout: single
+layout: default
 title: "Small-Scale Wind Turbine Design"
 collection: projects
-classes: wide
-author_profile: false
 ---
 
 ## Overview
