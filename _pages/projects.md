@@ -17,6 +17,13 @@ permalink: /projects/
 </div>
 </div>
 
+<div class="gallery-item">
+        <a href="/projects/2025-12-17-wind-turbine">
+        <img src="/assets/blade-cad.png" alt="Wind Turbine Design" />
+        <p>Small-Scale Wind Turbine Design</p>
+        </a>
+    </div>
+
 <div style="text-align: center; margin-top: 40px;">
     <h3>MAE 3270 Final HW</h3>
     <a href="{{ '/assets/FPW.pdf' | relative_url }}" target="_blank" style="font-size: 1.2em; font-weight: bold;">
