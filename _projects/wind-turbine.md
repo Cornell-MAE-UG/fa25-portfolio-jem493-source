@@ -13,8 +13,8 @@ Our design strategy prioritized aerodynamic performance and structural integrity
 * **Aerodynamics:** We selected the NACA4412 airfoil for its good performance characteristics across a range of conditions. Using element-wise analysis in MATLAB, we optimized the blade geometry, settling on a 90-degree angle of twist and a taper ratio of 3.25 to reduce the blade mass while maintaining lift throughout.
 * **Fabrication:** The blades were modeled in CAD to ensure compatibility with the 3D printing process and the hub connector constraints. The 3D printing was outsourced (for all groups) with the assistance of course staff.
 
-<img src="/assets/blade-cad2.jpg" width="600">
-<img src="/assets/blade-cad.jpg" width="600">
+<img src="/assets/blade-cad-2.jpg" width="600">
+<img src="/assets/Blade-CAD.jpg" width="600">
 *CAD rendering of the final blade geometry and dimensions*
 
 ## Testing Summary
