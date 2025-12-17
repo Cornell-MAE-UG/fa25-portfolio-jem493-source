@@ -16,8 +16,8 @@ Our design strategy prioritized aerodynamic performance and structural integrity
 * **Fabrication:** The blades were modeled in CAD to ensure compatibility with the 3D printing process and the hub connector constraints. The 3D printing was outsourced (for all groups) with the assistance of course staff.
 
 <figure style="text-align: center;">
-  <img src="/assets/blade-cad-2.jpg" alt="CAD rendering" style="width: 100%; max-width: 600px;">
-  <img src="/assets/Blade-CAD.jpg" alt="CAD Dimensions" style="width: 100%; max-width: 600px;">
+  <img src="{{ '/assets/blade-cad-2.jpg' | relative_url }}" alt="CAD rendering" style="width: 100%; max-width: 600px;">
+  <img src="{{ '/assets/Blade-CAD.jpg' | relative_url }}" alt="CAD Dimensions" style="width: 100%; max-width: 600px;">
   <figcaption><em>Figure 1: CAD rendering of the final blade geometry and dimensions.</em></figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ We validated the design in the wind tunnel across wind speeds corresponding to f
 * **Analysis:** Peak efficiency occurred at a tip-speed ratio (TSR) of 0.51. This was lower than our theoretical model, likely due to low Reynolds number effects during the tunnel test which reduced the performance of the airfoils.
 
 <figure style="text-align: center;">
-  <img src="/assets/power-curve.jpg" alt="Power Curve" style="width: 100%; max-width: 600px;">
+  <img src="{{ '/assets/power-curve.jpg' | relative_url }}" alt="Power Curve" style="width: 100%; max-width: 600px;">
   <figcaption><em>Figure 2: Experimental power curves showing peak performance at various RPMs. This data was collected using a LabView VI prebuilt in the Big Blue wind tunnel.</em></figcaption>
 </figure>
 
