@@ -2,6 +2,7 @@
 title: "Small-Scale Wind Turbine Design"
 excerpt: "Design, fabrication, and wind-tunnel validation of a custom wind turbine blade for MAE 4272."
 collection: projects
+layout: single
 ---
 
 ## Overview
