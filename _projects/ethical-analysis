@@ -1,27 +1,28 @@
 ---
 layout: post
 title: "Holistic Ethical Analysis of the Boeing 737 MAX Incident"
-date: 2025-12-18
+author: "Jacob Miller"
+date: 2025-12-19
 ---
 
 In MAE4300, Engineers and Society, the curriculum moved beyond the technical competencies instilled in us by our other engineering courses to address the sociotechnical landscape in which engineering occurs. Throughout the semester, we used the Boeing 737 MAX crashes as our anchoring example of an engineering catastrophe for our ethical analysis. This portfolio entry demonstrates how engineers must navigate the complex friction that exists between safety, organizational pressure, and professional obligation.
 
-## Foundation of the Accident: Facts and Assumptions
+<h2>Foundation of the Accident: Facts and Assumptions</h2>
 
 The initial phase of our accident analysis required us to separate what is known vs what is inferred about the accident. In week 7 we learned to categorize information into material facts, such as technical data from the black box about the MCAS activations, facts about individuals, and facts about organization. We learned to distinguish between verified facts and reasonable assumptions. For example, while we can’t know the specifics of every internal conversation, we made the reasonable assumption that engineers raised safety concerns based on evidence such as Mark Forkner’s texts. Making this distinction is a critical skill for us to learn as future engineers as we need to differentiate facts, assumptions, and speculation when evaluating the safety of a project.
 
-## Analysis: Applying Principles and Canons
+<h2>Analysis: Applying Principles and Canons</h2>
 
 The core of our ethical evaluation involved applying ethical codes. As mechanical engineers, we looked to the ASME Fundamental Canons and how ethical issues can be resolved in the context of the canons, even when they conflict. The Boeing case exposed a direct conflict between canon 1, which dictates that engineers “hold paramount the safety, health, and welfare of the public,” and canon 4, which requires acting as “faithful agents or trustees” for employers.
 
 In analyzing the 737 MAX, it became clear that the hierarchy of these principles is not flexible. Public safety must take precedence over loyalty to one’s employer. Speaking in groups during this week’s seminar, we discussed examples of this in the real world particularly regarding the training differences between training requirements for different operators. We spoke about the “ethically appropriate” levels of transparency required when designing systems for diverse user bases where political, social, and cultural norms regarding safety may differ.
 
-## Resolution
+<h2>Resolution</h2>
 
 The final stages of the course where we identified constraints to resolve the issue provided another significant insight for my future career. While an “ideal” ethical resolution would involve drastic measures such as ceasing production or demanding total transparency, these solutions are often not practical. Instead, we looked to identify more practical constraints that may explain actions taken. Factors such as market competition with Airbus, regulatory capture, and information silos acted as real-world barriers to ideal ethical behavior that we must be able to deal with as engineers.
 
 Recognizing these constraints does not justify unethical behavior, but it highlights systemic issues that may make individual compliance by engineers difficult or impossible. These patterns are not just specific to Boeing, and are seen across the board in engineering contexts such as the development of AI, as we discussed during week 9.
 
-## Conclusion
+<h2>Conclusion</h2>
 
 The analysis of the Boeing 737 MAX incident confirms that engineering ethics is not merely a checklist of legal compliance, but a proactive and continuously changing process. Legal requirements should be the floor for compliance, not the ceiling. As professional engineers, we should strive for a higher level of ethical obligation such as those outlined in the ASME canons. The rest of my career will be informed by discussions had in this class, and I will hold all my decisions to a rigorous, ethical standard while navigating the landscape of business interests and regulation.
